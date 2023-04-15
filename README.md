@@ -2,11 +2,11 @@
 
 
 ```javascript
-const dreamOgu = {
-  name : "오은비" || "Eunbi Oh",
-  code: [Javascript, HTML, CSS],
-  tools: [React],
-  Goal: "사용자를 생각하는 프론트앤드 개발자"
+                const dreamOgu = {
+                  name : "오은비" || "Eunbi Oh",
+                  code: [Javascript, HTML, CSS],
+                  tools: [React],
+                  Goal: "사용자를 생각하는 프론트앤드 개발자"
 }
 ```
 
